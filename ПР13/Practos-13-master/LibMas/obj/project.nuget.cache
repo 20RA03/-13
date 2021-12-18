@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZRsMmQqJ///7okr4Uq11I6nB/LhxKeIOKwy2OCQ86y1w9RutA60vZDTZv+lNJfeQh8N0d3FSX3WKiQ5MlT3Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Practos-13-master\\LibMas\\LibMas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

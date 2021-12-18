@@ -1,0 +1,10 @@
+C:\Users\Alex\Desktop\Practos-13-master\LibMas\bin\Debug\netstandard2.0\LibMas.deps.json
+C:\Users\Alex\Desktop\Practos-13-master\LibMas\bin\Debug\netstandard2.0\LibMas.dll
+C:\Users\Alex\Desktop\Practos-13-master\LibMas\bin\Debug\netstandard2.0\LibMas.pdb
+C:\Users\Alex\Desktop\Practos-13-master\LibMas\obj\Debug\netstandard2.0\LibMas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Practos-13-master\LibMas\obj\Debug\netstandard2.0\LibMas.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Practos-13-master\LibMas\obj\Debug\netstandard2.0\LibMas.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Practos-13-master\LibMas\obj\Debug\netstandard2.0\LibMas.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Practos-13-master\LibMas\obj\Debug\netstandard2.0\LibMas.dll
+C:\Users\Alex\Desktop\Practos-13-master\LibMas\obj\Debug\netstandard2.0\LibMas.pdb
+C:\Users\Alex\Desktop\Practos-13-master\LibMas\obj\Debug\netstandard2.0\LibMas.csproj.AssemblyReference.cache
